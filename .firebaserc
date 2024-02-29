@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "mydayapp-874a7"
-  }
+    "default": "mydayapp-874a7",
+    "staging": "mydayapp-7d559"
+  },
+  "targets": {},
+  "etags": {}
 }
